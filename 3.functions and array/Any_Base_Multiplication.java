@@ -60,7 +60,6 @@ public static void main(String[] args) {
  public static int getSum(int b, int n1, int n2)
     {
         int rv = 0;
-        int xx = 0;
         int c = 0;
         int p=1;
 
